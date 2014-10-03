@@ -5,11 +5,11 @@ Requires at least: 3.4
 Tested up to: 4.0
 Stable tag: 1.0.3
 
-Tartalom-érzékeny, automatikusan frissülő ajánlások a [link] (http://vegetarianusreceptek.hu "vegetáriánusreceptek.hu") receptjeiből, híreiből.
+Tartalom-érzékeny, automatikusan frissülő ajánlások a http://vegetarianusreceptek.hu receptjeiből, híreiből.
 
 == Description ==
 
-Tartalom-érzékeny, automatikusan frissülő ajánlások a [link] (http://vegetarianusreceptek.hu "vegetáriánusreceptek.hu") receptjeiből, híreiből. 
+Tartalom-érzékeny, automatikusan frissülő ajánlások a http://vegetarianusreceptek.hu receptjeiből, híreiből. 
 A receptek az Ön oldalának tartalmához illeszkedve jelennek meg, további ajánlatokat adva látogatóinak.
 
 == Installation ==
