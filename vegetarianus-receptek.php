@@ -5,7 +5,7 @@
 /*
 Plugin Name: Vegetáriánus Receptek
 Plugin URI: http://wordpress.org/plugins/vegetarianus-receptek/
-Version: 1.0.3
+Version: 1.0.4
 Description: Tartalom-érzékeny, automatikusan frissülő ajánlások a <strong><a href="http://vegetarianusreceptek.hu" target="_blank">vegetáriánusreceptek.hu</a></strong> receptjeiből, híreiből. A receptek az Ön oldalának tartalmához illeszkedve jelennek meg, további ajánlatokat adva látogatóinak.
 Author: e-presence, Bliszkó Viktor
 Author URI: http://www.e-presence.hu

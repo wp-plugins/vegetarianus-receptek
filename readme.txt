@@ -3,7 +3,7 @@ Contributors: vbliszko
 Tags: vegetáriánus, vega, vegán, receptek, recept, hír, hir, hírek, hirek, blog, blogok 
 Requires at least: 3.4
 Tested up to: 4.0
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 
 Tartalom-érzékeny, automatikusan frissülő ajánlások a http://vegetarianusreceptek.hu receptjeiből, híreiből.
 
@@ -29,6 +29,9 @@ A receptek az Ön oldalának tartalmához illeszkedve jelennek meg, további aj�
 == Screenshots ==
 
 == Changelog ==
+
+= 1.0.4 = 
+* URL javítások 
 
 = 1.0.3 = 
 * Apró javítások 
