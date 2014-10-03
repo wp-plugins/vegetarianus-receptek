@@ -3,19 +3,20 @@ Contributors: vbliszko
 Tags: vegetáriánus, vega, vegán, receptek, recept, hír, hir, hírek, hirek, blog, blogok 
 Requires at least: 3.4
 Tested up to: 4.0
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 
-Tartalom-érzékeny, automatikusan frissülő ajánlások a vegetáriánusreceptek.hu receptjeiből, híreiből.
+Tartalom-érzékeny, automatikusan frissülő ajánlások a [link] (http://vegetarianusreceptek.hu "vegetáriánusreceptek.hu") receptjeiből, híreiből.
 
 == Description ==
 
-Tartalom-érzékeny, automatikusan frissülő ajánlások a vegetáriánusreceptek.hu receptjeiből, híreiből. A receptek az Ön oldalának tartalmához illeszkedve jelennek meg, további ajánlatokat adva látogatóinak.
+Tartalom-érzékeny, automatikusan frissülő ajánlások a [link] (http://vegetarianusreceptek.hu "vegetáriánusreceptek.hu") receptjeiből, híreiből. 
+A receptek az Ön oldalának tartalmához illeszkedve jelennek meg, további ajánlatokat adva látogatóinak.
 
 == Installation ==
 
 * Kicsomagolás saját gépre
 
-* A vegetarianusreceptek mappa és teljes tartalmának feltöltése a `/wp-content/plugins/` mappába.
+* A vegetarianus-receptek mappa és teljes tartalmának feltöltése a `/wp-content/plugins/` mappába.
 
 * Bővítmény bekapcsolása.
 
@@ -28,6 +29,9 @@ Tartalom-érzékeny, automatikusan frissülő ajánlások a vegetáriánusrecept
 == Screenshots ==
 
 == Changelog ==
+
+= 1.0.3 = 
+* Apró javítások 
 
 = 1.0.2 = 
 * Módosított címkék 
