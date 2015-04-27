@@ -2,8 +2,8 @@
 Contributors: vbliszko
 Tags: vegetáriánus, vega, vegán, receptek, recept, hír, hir, hírek, hirek, blog, blogok 
 Requires at least: 3.4
-Tested up to: 4.1
-Stable tag: 1.0.5
+Tested up to: 4.2
+Stable tag: 1.0.6
 
 Tartalom-érzékeny, automatikusan frissülő ajánlások a http://vegetarianusreceptek.hu receptjeiből, híreiből.
 
@@ -29,6 +29,9 @@ A receptek az Ön oldalának tartalmához illeszkedve jelennek meg, további aj�
 == Screenshots ==
 
 == Changelog ==
+
+= 1.0.6 = 
+* WP 4.2 kompatibilitás ellenőrzés
 
 = 1.0.5 = 
 * WP 4.1 kompatibilitás ellenőrzés
